@@ -1,0 +1,33 @@
+1)display():
+This function displays the recorded entries in the bank system. It will display all the account details of all the accounts available in the system. 
+
+2)accountstatus():
+This function in the program will show the current status of the account ie; the balance and the status of the account number that is been entered.
+
+3)depositamount():
+This function will record the deposit made by the account holder.
+
+4)withdrawamount():
+This function in the program will record the transaction of the account where the amount has been withdrawn.
+
+5)searchmenu():
+This function in the program will help the user to search for the account.
+
+6)dailyreport():
+This function will display the daily transaction of the account.
+
+7)Account details():
+This function will display the details of the account which was being searched.
+
+8)Add account():
+This function will add new account.
+
+9)Addtran():
+This function will allow the user to record new transaction.
+
+10)Modify account():
+This function will enable the user to make modification in any of the account.
+
+11)Closea ccount():
+This function in the program will close the entire program.
+
